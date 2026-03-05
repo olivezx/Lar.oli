@@ -1,4 +1,4 @@
- Olá, meu nome e Lara 
+👋 OLA, meu nome e Lara 
 
 💻 estudante de desenvolvedor web | 🚀 Apaixonado por tecnologia | 🌟 Criando soluções que impactamtes
 #
